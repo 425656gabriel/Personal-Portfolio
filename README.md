@@ -5,3 +5,4 @@ My role is to make the themes and the AI for the bots.
 
 ##Running Application
 ![RunningApp]()
+[Project Repo](https://github.com/425656gabriel/Chess/tree/main?tab=readme-ov-file)
