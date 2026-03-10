@@ -4,5 +4,5 @@ A Chess simulator, can be 2-player or Human vs Robot, the user can chose of a va
 My role is to make the themes and the AI for the bots.
 
 ##Running Application
-![RunningApp]()
+![RunningApp]()  
 [Project Repo](https://github.com/425656gabriel/Chess/tree/main?tab=readme-ov-file)
